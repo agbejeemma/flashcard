@@ -1,0 +1,258 @@
+/* .border-background {
+    cursor: pointer;
+    box-sizing: border-box;
+    border: 2px solid white;
+    background-color: yellow;
+  } */
+
+.Flashcard-Site-background {
+    background-color: green;
+}
+.tea{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.boss{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#js-showing {
+    display: none;
+}
+
+.click {
+    cursor: pointer;
+    color: blue;
+}
+
+.click:hover {
+    text-decoration: underline;
+}
+
+.card {
+    height: 70px;
+}
+
+#operation-showing {
+    display: none;
+}
+
+.click-2 {
+    cursor: pointer;
+    color: blue;
+}
+
+.click-2:hover {
+    text-decoration: underline;
+}
+
+#variable-showing {
+    display: none;
+}
+
+.click-3 {
+    cursor: pointer;
+    color: blue;
+
+}
+
+.card {
+    height: 70px;
+}
+
+.click-3:hover {
+    text-decoration: underline;
+}
+#Variable-naming-conventions-showing {
+    display: none;
+}
+
+.click-11 {
+    cursor: pointer;
+    color: blue;
+
+}
+
+.card {
+    height: 70px;
+}
+
+.click-11:hover {
+    text-decoration: underline;
+}
+
+
+#function-showing {
+    display: none;
+}
+
+.click-4 {
+    cursor: pointer;
+    color: blue;
+}
+.card {
+    height: 70px;
+}
+
+.click-4:hover {
+    text-decoration: underline;
+}
+
+#method-showing{
+    display: none;
+}
+.click-5{
+    cursor: pointer;
+    color: blue;
+}
+.click-5:hover {
+    text-decoration: underline;
+}
+#argument-showing{
+    display: none;
+}
+.click-6{
+    cursor: pointer;
+    color: blue;
+}
+.click-6:hover {
+    text-decoration: underline;
+}
+#parameter-showing{
+    display: none;
+}
+.click-7{
+    cursor: pointer;
+    color: blue;
+}
+.click-7:hover {
+    text-decoration: underline;
+}
+#return-showing{
+    display: none;
+}
+.click-8{
+    cursor: pointer;
+    color: blue;
+}
+.click-8:hover {
+    text-decoration: underline;
+}
+#Chaining-methods-showing{
+    display: none;
+}
+.click-9{
+    cursor: pointer;
+    color: blue;
+}
+.click-9:hover {
+    text-decoration: underline;
+}
+#strings-showing{
+    display: none;
+}
+.click-9{
+    cursor: pointer;
+    color: blue;
+}
+.click-9:hover {
+    text-decoration: underline;
+}
+#strings-showing{
+    display: none;
+}
+.click-00{
+    cursor: pointer;
+    color: blue;
+}
+.click-00:hover {
+    text-decoration: underline;
+}
+#Booleans-showing{
+    display: none;
+}
+.click-01{
+    cursor: pointer;
+    color: blue;
+}
+.click-01:hover {
+    text-decoration: underline;
+}
+#Undefined-showing{
+    display: none;
+}
+.click-03{
+    cursor: pointer;
+    color: blue;
+}
+.click-03:hover {
+    text-decoration: underline;
+}
+
+#nan-showing{
+    display: none;
+}
+.click-04{
+    cursor: pointer;
+    color: blue;
+}
+.click-04:hover {
+    text-decoration: underline;
+}
+#null-showing{
+    display: none;
+}
+.click-05{
+    cursor: pointer;
+    color: blue;
+}
+.click-05:hover {
+    text-decoration: underline;
+}
+#alert-showing{
+    display: none;
+}
+.click-06{
+    cursor: pointer;
+    color: blue;
+}
+.click-06:hover {
+    text-decoration: underline;
+}
+#comment-showing{
+    display: none;
+}
+.click-07{
+    cursor: pointer;
+    color: blue;
+}
+.click-07:hover {
+    text-decoration: underline;
+}
+#jquery-showing{
+    display: none;
+}
+.click-08{
+    cursor: pointer;
+    color: blue;
+}
+.click-08:hover {
+    text-decoration: underline;
+}
+#attributes-showing{
+    display: none;
+}
+.click-09{
+    cursor: pointer;
+    color: blue;
+}
+.click-09:hover {
+    text-decoration: underline;
+}
+
+
+
